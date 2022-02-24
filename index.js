@@ -1,3 +1,4 @@
+import "./style.css";
 const modal = document.getElementById("modal");
 const btn = document.getElementById("btn");
 const monster = document.querySelector(".monster");
